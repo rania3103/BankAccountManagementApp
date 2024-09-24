@@ -48,18 +48,11 @@ To set up the project locally, follow these steps:
 
 3. **Database Setup**:
    - Open phpMyAdmin (usually available at http://localhost/phpmyadmin).
-   - Create a new database named `bank_management`.
-   - Import the provided SQL file located in the `database` folder into the database.
+   - Create a new database named `banque`.
+   - Manually create the necessary tables according to the database schema. You can refer to the screenshots section for the table diagram.
 
 4. **Configure the application**:
    - Open the project folder in your preferred editor.
-   - Navigate to the `config.php` file and update the database credentials (if necessary):
-     ```php
-     $host = 'localhost';
-     $username = 'root'; // default XAMPP username
-     $password = ''; // default XAMPP password is empty
-     $database = 'banque';
-     ```
 
 5. **Run the project**:
    - Place the project folder in the XAMPP `htdocs` directory.
@@ -83,7 +76,6 @@ To set up the project locally, follow these steps:
 <img src='./images/acc2.png'>
 <img src='./images/bienvenue.png'>
 <img src='./images/mdpoublie.png'>
-<img src='./images/changmdp.png'>
 <img src='./images/changmdp.png'>
 <img src='./images/insccri.png'>
 <img src='./images/demcheq.png'>
