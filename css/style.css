@@ -1,0 +1,107 @@
+.intro {
+    height: 100%;
+  }
+  
+  @media (min-height: 300px) and (max-height: 450px) {
+    .intro {
+      height: auto;
+    }
+  }
+  
+  .gradient-custom {
+    background: radial-gradient(50% 123.47% at 50% 50%, #00FF94 0%, #720059 100%), linear-gradient(121.28deg, #669600 0%, #FF0000 100%), linear-gradient(360deg, #0029FF 0%, #8FFF00 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #00FF57 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+    background-blend-mode: screen, color-dodge, overlay, difference, normal;
+  }
+  /* begin of validation java script*/
+  
+  .input-group small{
+    position: absolute;
+    bottom:-6%;
+    left: 6%;
+    visibility: hidden;
+  }
+  .input-group.success input{
+    border-color: #2ecc71;
+  }
+  .input-group.error input{
+    border-color: #e74c3c;
+
+  }
+  .input-group.success small{
+    visibility: visible;
+    color: #2ecc71;
+    font-weight: bold;
+  }
+  .input-group.error small{
+    visibility: visible;
+    color: #e74c3c;
+    font-weight: bold;
+
+  }
+
+  
+
+  .form-group small{
+    position: absolute;
+    left: 35%;
+    visibility: hidden;
+}
+.form-group.success input{
+    border-color: #2ecc71;
+}
+.form-group.error input{
+    border-color: #e74c3c;
+    
+
+}
+.form-group.success small{
+    visibility: visible;
+    color: #2ecc71;
+    font-weight: bold;
+}
+.form-group.error small{
+    visibility: visible;
+    color: #e74c3c;
+    font-weight: bold;
+
+}
+/*h1{
+  color:;
+}*/
+
+
+  
+  /*end of validation java script*/
+  /*#login .container{
+    margin-top: 7%;
+    border-radius: 20px;
+    padding: 30px;
+  }
+    #login i{
+      color: #FF5733  ;
+       }
+    #titlepart2{
+        color: #FF5733 ;
+        
+       }
+    #titlepart1{
+        color:  #C52525 ;
+       }
+    #login a{
+      font-weight: bold;
+      color:  #C52525 ;
+    }
+    #login button{
+      background-image: linear-gradient(135deg, #FFAA85 10%, #B3315F 100%);
+      color:white;
+    }
+    #login{
+      background-color: #f09f84;
+    }*/
+
+    
+
+
+  /*begin of authentification.html*/
+
+  
