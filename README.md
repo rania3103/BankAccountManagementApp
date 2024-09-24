@@ -77,3 +77,24 @@ To set up the project locally, follow these steps:
 - **Scalability**: The app is not designed to handle large-scale usage or advanced load balancing.
   
 ## screenshots:📸
+
+<img src='./images/diag.png'>
+<img src='./images/acc1.png'>
+<img src='./images/acc2.png'>
+<img src='./images/bienvenue.png'>
+<img src='./images/mdpoublie.png'>
+<img src='./images/changmdp.png'>
+<img src='./images/changmdp.png'>
+<img src='./images/insccri.png'>
+<img src='./images/demcheq.png'>
+<img src='./images/vir.png'>
+<img src='./images/table_utilisateur.png'>
+<img src='./images/table_compte.png'>
+<img src='./images/table_vir.png'>
+<img src='./images/table_compte_apres_vir.png'>
+<img src='./images/table_chequier.png'>
+<img src='./images/consultation.png'>
+<img src='./images/details_consul.png'>
+<img src='./images/contact.png'>
+<img src='./images/hist.png'>
+<img src='./images/services.png'>
