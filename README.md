@@ -3,11 +3,11 @@
 A web application designed to allow users to manage their bank accounts remotely. This was my **first project**, developed during my **first internship** at Al Baraka Bank. While the project provides essential functionality like authentication, checkbook requests, transfers, and account balance consultation, it does have **limitations** in terms of security and technology, as it was my initial attempt at building a web application. The technologies used are not optimized for Web 3 or advanced security standards.
 
 ## Table of Contents: 📁
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Features](#Features)
+- [Technologies Used](#Technologies-Used)
+- [Installation](#Installation)
 - [Usage](#usage)
-- [Known Issues and Limitations](#known-issues-and-limitations)
+- [Known Issues and Limitations](#Known-issues-and-limitations)
 - [Screenshots](#screenshots)
 
 ## Features: ✨
@@ -18,7 +18,7 @@ A web application designed to allow users to manage their bank accounts remotely
 - **Email Notifications**: Sends users updates on transactions and account activities.
 - **Responsive Design**: Works across desktops, tablets, and mobile devices.
 
-## Technologies Used: ⚙️
+## Technologies-Used: ⚙️
 - **Frontend**:
   - HTML5
   - CSS3
