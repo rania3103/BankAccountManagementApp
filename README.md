@@ -80,11 +80,6 @@ To set up the project locally, follow these steps:
 <img src='./images/insccri.png'>
 <img src='./images/demcheq.png'>
 <img src='./images/vir.png'>
-<img src='./images/table_utilisateur.png'>
-<img src='./images/table_compte.png'>
-<img src='./images/table_vir.png'>
-<img src='./images/table_compte_apres_vir.png'>
-<img src='./images/table_chequier.png'>
 <img src='./images/consultation.png'>
 <img src='./images/details_consul.png'>
 <img src='./images/contact.png'>
